@@ -1,0 +1,9 @@
+[submodule "trend-analyzer-backend"]
+	path = trend-analyzer-backend
+	url = git@prs-acc:DungNguyen0209/trend-analyzer-backend.git
+[submodule "trend-analyzer-frontend"]
+	path = trend-analyzer-frontend
+	url = git@prs-acc:DungNguyen0209/trend-analyzer-frontend.git
+[submodule "trend-analyzer-infra"]
+	path = trend-analyzer-infra
+	url = git@prs-acc:DungNguyen0209/trend-analyzer-infra.git
